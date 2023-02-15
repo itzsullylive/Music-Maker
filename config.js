@@ -8,7 +8,7 @@ status: '❤️MusicMaker',
 commandsDir: './commands', //Please don't touch
 language: "en", //en, tr, nl, pt, fr, ar, zh_TW, it
 embedColor: "ffa954", //hex color code
-errorLog: "1068604870971621426", //write your discord error log channel id.
+errorLog: "", //write your discord error log channel id.
 
 
 sponsor: {
