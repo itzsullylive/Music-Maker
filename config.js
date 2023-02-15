@@ -1,9 +1,9 @@
 module.exports = {
-TOKEN: "MTA2ODkyNDYxNTk3MzQyMTEwNg.GhezDd.D1oEt10jd95FNRHlPm5uQl8W6W5q4bf8bsfIyw",
-ownerID: ["793887959287857173"], //write your discord user id. example: ["id"] or ["id1","id2"]
-botInvite: "https://discord.com/api/oauth2/authorize?client_id=1068924615973421106&permissions=8&scope=bot%20applications.commands", //write your discord bot invite.
-supportServer: "https://discord.gg/3nbvTSkZ", //write your discord bot support server invite.
-mongodbURL: "mongodb+srv://lyx:Sullivan2006@discordbot.ppcraup.mongodb.net/?retryWrites=true&w=majority", //write your mongodb url.
+TOKEN: "",
+ownerID: [""], //write your discord user id. example: ["id"] or ["id1","id2"]
+botInvite: "", //write your discord bot invite.
+supportServer: "", //write your discord bot support server invite.
+mongodbURL: "", //write your mongodb url.
 status: '❤️MusicMaker',
 commandsDir: './commands', //Please don't touch
 language: "en", //en, tr, nl, pt, fr, ar, zh_TW, it
